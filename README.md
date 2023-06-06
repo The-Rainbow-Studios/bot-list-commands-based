@@ -1,10 +1,8 @@
-![Slash-Command Hanlder](https://user-images.githubusercontent.com/73745640/232683030-0af62ad3-414e-470c-89c7-3d907031b8be.png)
+# Discord.js v14 Bot List commands Based
 
-# Discord.js Slash-Command Handlder
+## Can I use this bot?
 
-## Can I use this handler in my bot?
-
-> Sure you can! You can remove credits if you want!
+> Sure you can! But do not tell you made it, just add a line or don't remove footer
 
 #### For People making a youtube video on it
 
@@ -27,7 +25,7 @@ TOKEN=secret
 ```
 
 Fore replit users<br>
-[click here](https://replit.com/github/The-Rainbow-Studios/discord.js-v14-handler) <br>
+[click here](https://replit.com/github/The-Rainbow-Studios/bot-list-commands-based) <br>
 
 - Step 2 <br>
   Fill `./botconfig/config.js` file with this template
@@ -54,11 +52,11 @@ Tip: [How to get a mongodb URL?](https://www.youtube.com/watch?v=RQMWKRlMtH0 "Yo
   Now te final step. Run `npm install` and it will install all necessary packages. At last run `npm run start` or `node .`
   
   **And your bot should be up and running!**<br>
-**For Emojis [Click here](https://discord.gg/rainbow-studios-free-codes-869916537610448897 "Rainbow Studios")**
+**For Emojis [Click here](https://discord.gg/programmers "Shadow Studios")**
 
 ## Problems? or cant host it?
 
-You can ask help in my support server by clicking [here](https://discord.gg/rainbow-studios-free-codes-869916537610448897 "Rainbow Studios")
+You can ask help in my support server by clicking [here](https://discord.gg/programmers "Shadow Studios")
 
 ## Contributing
 
@@ -70,11 +68,11 @@ That's it Thanks for contributing!<br>
 
 # License
 
-[DBAD License](https://github.com/The-Rainbow-Studios/discord.js-v14-handler/blob/main/LICENSE.md)
+Apache 2.0
 
 # Support
 
-For support join our [discord support server](https://discord.gg/rainbow-studios-free-codes-869916537610448897).
+For support join our [discord support server](https://discord.gg/programmers).
 
 # Authors
 
